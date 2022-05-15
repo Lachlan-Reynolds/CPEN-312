@@ -1,5 +1,6 @@
 # CPEN-312
 Digital Systems and Microcomputers 
+
 Third year engineering course taken by IGEN, FIZZ and Mecha students. 
 Course Description:
 Data representation in digital computers; boolean algebra; the design and optimization and implementation of combinatorial and sequential circuits; modern digital circuit technologies; memory and programmable logic devices; organization and operation of microcomputers; data/address bus organization; input-output interfacing. 
